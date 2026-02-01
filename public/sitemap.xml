@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Startsida -->
+    <url>
+        <loc>https://www.dindomän.se/</loc>
+        <lastmod>2026-01-30</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Om tjänsten -->
+    <url>
+        <loc>https://www.dindomän.se/om-tjansten</loc>
+        <lastmod>2026-01-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Kontakt -->
+    <url>
+        <loc>https://www.dindomän.se/kontakt</loc>
+        <lastmod>2026-01-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- FAQ -->
+    <url>
+        <loc>https://www.dindomän.se/faq</loc>
+        <lastmod>2026-01-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Integritetspolicy -->
+    <url>
+        <loc>https://www.dindomän.se/integritetspolicy</loc>
+        <lastmod>2026-01-30</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+    <!-- Användarvillkor -->
+    <url>
+        <loc>https://www.dindomän.se/anvandarvillkor</loc>
+        <lastmod>2026-01-30</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+</urlset>
